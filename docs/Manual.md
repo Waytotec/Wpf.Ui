@@ -160,9 +160,10 @@ Waytotec Control System은 네트워크 카메라를 효율적으로 관리하�
 ## 버전 정보
 
 - **현재 버전**: 1.0.0
-- **최종 업데이트**: 2024-12-20
+- **최종 업데이트**: 2025-00-00
 - **개발사**: Waytotec Co., Ltd.
 
 ---
+
 
 *Copyright © 2024 Waytotec. All rights reserved.*
